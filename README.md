@@ -1,3 +1,11 @@
+# My personal trial out version
+
+Here I will explore different larger improvements for the original ims-tutorioals. Not all of them I will try to incorporate with PRs. 
+
+Could I use the fork with a special fork dedicted to these experimental changes?
+
+***
+
 # OpenIntro::Introduction to Modern Statistics Tutorials
 
 Learnr tutorials supporting [OpenIntro::Introduction to Modern Statistics](https://openintro-ims.netlify.app/).
